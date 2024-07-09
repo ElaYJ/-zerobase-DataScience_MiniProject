@@ -1,1 +1,1 @@
-# -zerobase-DataScience_MiniProject
+# [zerobase] Data Science MiniProject
